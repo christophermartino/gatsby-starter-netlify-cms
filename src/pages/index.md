@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Something
+title: Christopher Martino
 image: /img/Scan 17.jpeg
 heading: head
-subheading: sub
+subheading: 'Artist, Human, Blob.'
 mainpitch:
   title: Why Kaldi
   description: >
